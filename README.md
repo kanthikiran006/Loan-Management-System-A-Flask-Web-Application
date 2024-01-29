@@ -1,4 +1,4 @@
-# Loan-Management-System-A-Flask-Web-Application
+# Loan-Management-System
 
 # Loan Management System
 
